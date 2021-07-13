@@ -1,0 +1,98 @@
+[
+    {
+        "id": 1,
+        "point": 1,
+        "seriesName": "Series A",
+        "cost": 0
+    },
+    {
+        "id": 2,
+        "point": 2,
+        "seriesName": "Series A",
+        "cost": 4
+    },
+    {
+        "id": 3,
+        "point": 3,
+        "seriesName": "Series A",
+        "cost": 2
+    },
+    {
+        "id": 4,
+        "point": 4,
+        "seriesName": "Series A",
+        "cost": 4
+    },
+    {
+        "id": 5,
+        "point": 5,
+        "seriesName": "Series A",
+        "cost": 8
+    },
+    {
+        "id": 6,
+        "point": 6,
+        "seriesName": "Series A",
+        "cost": 2
+    },
+    {
+        "id": 7,
+        "point": 7,
+        "seriesName": "Series A",
+        "cost": 5
+    },
+    {
+        "id": 8,
+        "point": 8,
+        "seriesName": "Series A",
+        "cost": 1
+    },
+    {
+        "id": 9,
+        "point": 1,
+        "seriesName": "Series B",
+        "cost": 0
+    },
+    {
+        "id": 10,
+        "point": 2,
+        "seriesName": "Series B",
+        "cost": 5
+    },
+    {
+        "id": 11,
+        "point": 3,
+        "seriesName": "Series B",
+        "cost": 7
+    },
+    {
+        "id": 12,
+        "point": 4,
+        "seriesName": "Series B",
+        "cost": 8
+    },
+    {
+        "id": 13,
+        "point": 5,
+        "seriesName": "Series B",
+        "cost": 25
+    },
+    {
+        "id": 14,
+        "point": 6,
+        "seriesName": "Series B",
+        "cost": 9
+    },
+    {
+        "id": 15,
+        "point": 7,
+        "seriesName": "Series B",
+        "cost": 7
+    },
+    {
+        "id": 16,
+        "point": 8,
+        "seriesName": "Series B",
+        "cost": 23
+    }
+]
