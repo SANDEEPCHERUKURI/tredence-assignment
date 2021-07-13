@@ -1,0 +1,40 @@
+<div class="row">
+  <div class="col-md-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title" style="text-align: left">Area Chart</h5>
+        <div style="display: block;">
+          <canvas baseChart width="400" height="200"
+                  [datasets]="areaLineChartData"
+                  [labels]="areaChartLabels"
+                  [options]="lineChartOptions"
+                  [colors]="lineChartColors"
+                  [legend]="lineChartLegend"
+                  [chartType]="lineChartType"
+                  [plugins]="lineChartPlugins">
+          </canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="col-md-6">
+    <div class="card">
+      <div class="card-body">
+        <h5 class="card-title" style="text-align: left">Yearly Sales</h5>
+        <div style="display: block;">
+          <canvas baseChart width="400" height="200"
+                  [datasets]="mobileLineChartData"
+                  [labels]="mobileChartLabel"
+                  [options]="lineChartOptions"
+                  [colors]="lineChartColors"
+                  [legend]="lineChartLegend"
+                  [chartType]="lineChartType"
+                  [plugins]="lineChartPlugins">
+          </canvas>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</div>
+
